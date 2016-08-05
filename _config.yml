@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
+title: Welcome to My World
+email: "a1exbubalo@protonmail.com"
+description: "Dreaming , Traveling Friendship"
 url: "http://altao2017.github.io"
 baseurl: "/myphotorama"
 facebook_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   a1ex.summerland
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: A1ex-Oceanview 2016.All copyrights reserved
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
